@@ -8,7 +8,7 @@ import '~/styles/globals.css'
 export const metadata: Metadata = constructMetadata({})
 
 export const viewport: Viewport = {
-   colorScheme: 'light',
+   colorScheme: 'dark',
    themeColor: [
       { media: '(prefers-color-scheme: light)', color: 'white' },
       { media: '(prefers-color-scheme: dark)', color: 'black' },
