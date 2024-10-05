@@ -1,5 +1,9 @@
 # SaaS Template - Your Fast Track to Market
 
+<div align="center">
+<video alt="StartUp" src="https://cdn.nyxbui.design/saas-demo.mp4" width="100%" height="100%" autoplay loop muted playsinline></video>
+</div>
+<br/>
 Launch your SaaS product quickly with our professional, feature-rich landing page template. Built with modern web technologies like **Next.js**, **Tailwind CSS**, and **NyxbUI**, this template is designed to save you time and effort, allowing you to focus on building your product.
 
 ## Features
@@ -28,6 +32,10 @@ Launch your SaaS product quickly with our professional, feature-rich landing pag
 - [**Framer Motion**](https://www.framer.com/motion/) – Advanced animations for smooth, polished user interactions
 - [**NyxbUI**](https://nyxbui.design/) – Ready-to-use UI components to accelerate your development
 - [**TypeScript**](https://www.typescriptlang.org/) – Typed JavaScript for better developer experience and fewer bugs
+
+# Deploy
+
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fnyxb%2Fsaas.git)
 
 ## Installation
 
