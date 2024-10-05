@@ -23,11 +23,11 @@ Launch your SaaS product quickly with our professional, feature-rich landing pag
 
 ## Tech Stack
 
-- **Next.js** – React framework for server-side rendering and optimized performance
-- **Tailwind CSS** – Utility-first CSS framework for fast and responsive design
-- **Framer Motion** – Advanced animations for smooth, polished user interactions
-- **NyxbUI** – Ready-to-use UI components to accelerate your development
-- **TypeScript** – Typed JavaScript for better developer experience and fewer bugs
+- [**Next.js**](https://nextjs.org/) – React framework for server-side rendering and optimized performance
+- [**Tailwind CSS**](https://tailwindcss.com/) – Utility-first CSS framework for fast and responsive design
+- [**Framer Motion**](https://www.framer.com/motion/) – Advanced animations for smooth, polished user interactions
+- [**NyxbUI**](https://nyxbui.design/) – Ready-to-use UI components to accelerate your development
+- [**TypeScript**](https://www.typescriptlang.org/) – Typed JavaScript for better developer experience and fewer bugs
 
 ## Installation
 
